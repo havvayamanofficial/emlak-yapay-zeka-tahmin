@@ -3,7 +3,7 @@
 ## Projenin Amacı ve Hikayesi
 Bu proje, **Türkiye Yapay Zekâ Akademisi** ve **Huawei Student Developers (HSD)** ortaklığında düzenlenen bootcamp programının final çıktısı olarak geliştirilmiştir. 
 
-Projenin en özgün yanı, yazarın geçmişteki **emlak sektörü saha tecrübelerine** dayanmasıdır. Sektörde gayrimenkul danışmanlarının ve alıcıların en çok zorlandığı "doğru ve objektif fiyatlandırma" problemine makine öğrenmesi ile çözüm üretilmesi hedeflenmiştir.
+Projenin en özgün yanı, yazarın geçmişteki **emlak sektörü  tecrübelerine** dayanmasıdır. Sektörde gayrimenkul danışmanlarının ve alıcıların en çok zorlandığı "doğru ve objektif fiyatlandırma" problemine makine öğrenmesi ile çözüm üretilmesi hedeflenmiştir.
 
 ## Veri Seti ve Algoritma
 Bir evin fiyatının sadece alansal büyüklükle ölçülemeyeceği gerçeğinden yola çıkılarak; **Metrekare, Asansör Durumu ve Otopark İmkanı** gibi temel ihtiyaçları barındıran bir veri seti simüle edilmiştir. 
